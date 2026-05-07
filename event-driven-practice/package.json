@@ -2,7 +2,7 @@
   "name": "event-driven-practice",
   "type": "module",
   "scripts": {
-    "dev": "tsx watch src/index.ts",
+    "dev": "tsx watch src/event_producer.ts",
     "build": "tsc",
     "start": "node dist/index.js"
   },
